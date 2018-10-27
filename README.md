@@ -1,5 +1,6 @@
 ### Guides
 ---
+https://github.com/thoughtbot/guides
 
 https://github.com/radar/guides
 
